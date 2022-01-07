@@ -1,0 +1,30 @@
+{
+  "name": "anuki-translate",
+  "version": "1.0.0",
+  "description": "A free and unlimited API for google translate",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anukijs/anuki-translate.git"
+  },
+  "keywords": [
+    "translator",
+    "google-translate",
+    "translate-api"
+  ],
+  "author": "DatiDarkie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anukijs/anuki-translate/issues"
+  },
+  "homepage": "https://github.com/anukijs/anuki-translate#readme",
+  "dependencies": {
+    "node-fetch": "^1.x"
+  }
+}
